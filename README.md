@@ -1,80 +1,185 @@
- Hi, I'm Gingo 
-I code, animate, and design so meals count, sponsors connect, and children grow in Uganda.**  
-Documenting the work behind the work.
+# Hi, I'm Gingo 👋
 
- 
+### Learning in Public • Building with Purpose • Documenting the Journey
 
-I'm the founder of Build An Opportunity, a community initiative in Uganda working to create opportunities through education, digital skills, community development, and technology.
-
-My community work gives me real problems to think about,program tracking, accountability, education, digital skills, and communicating impact. That experience shapes what I build and why.
+> I code, animate, and design to help create opportunity in Uganda.
+>
+> This GitHub is where I document the work behind the work.
 
 ---
 
-### ❤️ Why I Build
+## 🌍 About Me
 
-I'm interested in what happens when **software, design, and visual storytelling are treated as one creative toolkit**.
+I'm the founder of **Build An Opportunity**, a community initiative in Uganda focused on education, digital skills, creativity, technology, and community development.
 
-My goal is broader than any single project: to develop the ability to turn problems and ideas into **useful systems, thoughtful interfaces, and compelling visual experiences**.
+Working directly with communities exposes me to real-world challenges:
 
+- Tracking programs and activities
+- Accountability and reporting
+- Managing information
+- Communicating impact
+- Supporting learning and growth
 
-###  Thinking on Paper First
+Rather than waiting until I'm "ready," I've decided to learn openly and document the journey.
 
-Before opening an IDE or design application, I start on paper.
+This profile is the record of that process.
 
-I sketch application architecture, map user flows, break down logic, and storyboard visual ideas.
+---
 
-This helps me understand the problem before I decide on the technology.
+## 🧠 How I Approach Problems
 
-**Think → Sketch → Build → Test → Refine**
+Before opening an IDE, I usually start with a notebook.
 
+I sketch workflows, map ideas, break down systems, and explore solutions on paper.
 
-### 🛠️ What I'm Building & Learning
+Technology comes later.
 
-**Engineering & Web (Current Focus)**
-- JavaScript (ES6+), DOM Manipulation
-- IndexedDB (offline storage)
+First, I want to understand the problem.
+
+```text
+Think
+   ↓
+Sketch
+   ↓
+Build
+   ↓
+Test
+   ↓
+Refine
+```
+
+---
+
+## 📚 What I'm Learning
+
+### Engineering
+
+Currently focused on:
+
+- JavaScript (ES6+)
+- DOM Manipulation
+- Browser APIs
+- IndexedDB
 - Git & GitHub
 
-**Creative Toolkit**
-- Adobe Illustrator, After Effects, Moho
-- Premiere Pro, InDesign
+My goal isn't simply learning syntax.
 
-**Exploring**
-- Offline-first Progressive Web Apps
-- Interactive visual experiences
-- Data-driven storytelling
-- Systems designed for environments where connectivity isn't guaranteed
+I'm learning how software systems are designed, structured, and improved over time.
 
-###  What You'll Find Here
+### Creative Technology
 
-This GitHub is both a **workbench and a record of progress**.
+I also work with:
 
-You'll find:
-- JavaScript experiments and small applications.
-- Problem-solving exercises and architecture sketches.
-- Offline-first experiments and creative coding.
-- Projects developed from real-world problems.
+- Adobe Illustrator
+- After Effects
+- Moho Animation
+- Premiere Pro
+- InDesign
 
-Some projects will be polished. Others will be experiments that helped me understand something. Both are part of the journey.
+I'm particularly interested in the intersection of:
 
-### Documenting the Journey
+- Software
+- Design
+- Animation
+- Visual Storytelling
 
-I'm opening up the process sharing the questions, sketches, decisions, mistakes, iterations, and solutions.
+---
 
-The goal isn't to make the journey look perfect. It's to make the process visible.
+## 🎯 Long-Term Goal
 
+One problem I care deeply about is community and program tracking.
 
-###  Currently
+Many communities operate in environments where reliable internet connectivity cannot be assumed.
 
-- **Deepening:** JavaScript & software development.
-- **Building:** Practical web applications (offline-first).
-- **Exploring:** Creative technology and visual storytelling.
-- **Documenting:** The process from idea → sketch → system → story.
+Because of that, I'm exploring:
 
-**Learning. Building. Documenting.**
+- Offline-first applications
+- Progressive Web Apps (PWAs)
+- Local data storage
+- Reliable user experiences
+- Technology designed for real-world constraints
 
-### 🔗 Connect With Me
+My long-term goal is to build practical systems that help organizations manage information and demonstrate impact more effectively.
 
-- **LinkedIn:** linkedin.com/in/gingohenry
-- **Linktree:** linktr.ee/gingo_builds
-- **Email:** flyhenry1@gmail.com
+---
+
+## 🚧 What You'll Find Here
+
+This GitHub is a mix of:
+
+- Learning exercises
+- JavaScript practice
+- Small experiments
+- Architecture sketches
+- Personal notes
+- Build logs
+- Lessons learned
+- Wins and mistakes
+
+Not every repository will be polished.
+
+Some projects exist simply because they taught me something valuable.
+
+That's part of the journey.
+
+---
+
+## 📝 Building in Public
+
+I believe progress is easier to understand when the process is visible.
+
+Here you'll find:
+
+✅ Questions
+
+✅ Experiments
+
+✅ Sketches
+
+✅ Decisions
+
+✅ Mistakes
+
+✅ Iterations
+
+✅ Improvements
+
+The goal isn't perfection.
+
+The goal is growth.
+
+---
+
+## 🔄 Current Focus
+
+- Deepening JavaScript fundamentals
+- Understanding application architecture
+- Exploring offline-first systems
+- Combining software and visual storytelling
+- Documenting everything I learn
+
+---
+
+## 💡 Current Mission
+
+Building the skills required to turn:
+
+**Ideas → Systems**
+
+**Problems → Solutions**
+
+**Stories → Impact**
+
+---
+
+## 🤝 Connect
+
+🌐 Linktree: https://linktr.ee/gingo_builds
+
+📧 Email: buildanopportunityafrica@gmail.com
+
+---
+
+### Learning. Building. Documenting.
+
+*One sketch, one commit, and one lesson at a time.*
