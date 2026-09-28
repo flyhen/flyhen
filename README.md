@@ -2,9 +2,9 @@
 I code, animate, and design so meals count, sponsors connect, and children grow in Uganda.**  
 Documenting the work behind the work.
 
- Build An Opportunity
+ 
 
-I'm the founder of **Build An Opportunity**, a community initiative in Uganda working to create opportunities through education, digital skills, community development, and technology.
+I'm the founder of Build An Opportunity, a community initiative in Uganda working to create opportunities through education, digital skills, community development, and technology.
 
 My community work gives me real problems to think about,program tracking, accountability, education, digital skills, and communicating impact. That experience shapes what I build and why.
 
